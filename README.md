@@ -1,4 +1,4 @@
-# 🚕 Uber Ride Analysis Dashboard (Power BI + SQL + Python + Excel)
+# 🚕 Uber Operation Analysis Dashboard (Power BI + SQL + Python + Excel)
 
 A full-stack data analytics project analyzing Uber ride requests to uncover patterns in demand, cancellations, and performance gaps. This end-to-end project combines **Excel (Cleaning)**, **Python (EDA)**, **SQL (Insights)**, and **Power BI (Visualization)**.
 
